@@ -1,6 +1,10 @@
 ## Section 1 Reflection
 
 1. How did the SuperLearner Article resonate with you? What from this list do you already do? Want to start doing or do more of? Is there anything not on this list, that you would add to it?
+  * The superlearner article resonated with me in that I already do some of these habits that have carried over from the pursuit of getting really good at guitar.
+  * I already view learning as a process, have a growth mindset, and take short breaks.
+  * I would like to read more, though watching Youtube a lot helps with that too.
+  * Having time set aside each day for the same goal is something I would add to this list.
 
 2. What are the data types you learned about in this section? In your own words, define each.
 
