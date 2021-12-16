@@ -15,18 +15,24 @@ class Tweet {
     this.timeStamp = timeStamp,
     this.numberOfLikes = numberOfLikes,
     this.comments = comments
-  }
+}
 
-  addComments(newComment) {
-    this.comments.push(newComment);
-  }
+addComments(newComment) {
+  this.comments.push(newComment);
 
+}
 
+addLikes(newLike) {
+  this.numberOfLikes.push(newLike);
+}
 };
 
 
-var tweet1 = new Tweet("matt", "I love birds", "07:30 AM", 5, "no comments");
+var tweet1 = new Tweet("matt", "I love birds", "07:30 AM", [], []);
 console.log(tweet1);
 
 tweet1.addComments("Hello");
+console.log(tweet1);
+
+tweet1.addLikes(3);
 console.log(tweet1);
